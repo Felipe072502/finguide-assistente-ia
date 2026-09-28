@@ -544,34 +544,6 @@ A organização da base de conhecimento, a recuperação das informações corre
 
 ---
 
-## 🔄 Tratamento de falhas da API
-
-Durante os testes foi identificada indisponibilidade temporária da API em algumas requisições.
-
-Por isso, o FinGuide foi preparado para realizar novas tentativas automáticas quando identifica erros temporários, como:
-
-- indisponibilidade momentânea;
-- alta demanda;
-- limite temporário de requisições.
-
-O fluxo utilizado é semelhante a:
-
-```text
-1ª tentativa
-   ↓ falhou temporariamente
-aguarda 2 segundos
-   ↓
-2ª tentativa
-   ↓ falhou temporariamente
-aguarda 4 segundos
-   ↓
-3ª tentativa
-```
-
-Caso o serviço continue indisponível, a aplicação apresenta uma mensagem simples ao usuário sem expor detalhes técnicos internos.
-
----
-
 ## ⚙️ Limitações conhecidas
 
 A versão atual utiliza uma estratégia simples de recuperação baseada em palavras-chave.
