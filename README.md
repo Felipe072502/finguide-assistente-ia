@@ -518,7 +518,7 @@ python src/avaliar_resultados.py
 - [x] Métricas
 - [x] Pitch
 - [x] README
-- [ ] Publicação final no GitHub
+- [x] Publicação final no GitHub
 
 ---
 
