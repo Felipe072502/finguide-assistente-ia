@@ -22,7 +22,7 @@ DATA_DIR = BASE_DIR / "data"
 load_dotenv(BASE_DIR / ".env")
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-MODELO_PADRAO = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+MODELO_PADRAO = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
 
 ARQUIVOS_BASE = [
     "orcamento.json",
@@ -282,7 +282,7 @@ with st.sidebar:
     modelo = st.text_input(
         "Modelo Gemini",
         value=MODELO_PADRAO,
-        help="Modelo padrão do projeto: gemini-2.5-flash",
+        help="Modelo padrão do projeto: gemini-3.5-flash-lite",
     )
 
     mostrar_contexto = st.checkbox(
