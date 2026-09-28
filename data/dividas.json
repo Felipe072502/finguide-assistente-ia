@@ -1,0 +1,50 @@
+{
+  "tema": "Dívidas e endividamento",
+  "fonte_referencia": "Banco Central do Brasil - Cidadania Financeira",
+  "itens": [
+    {
+      "id": "DIV001",
+      "titulo": "Análise de uma dívida",
+      "palavras_chave": [
+        "dívida",
+        "endividamento",
+        "pagamento",
+        "parcela"
+      ],
+      "conteudo": "Para compreender uma dívida, é importante conhecer saldo devido, taxa de juros, prazo, valor das parcelas e impacto dos pagamentos no orçamento."
+    },
+    {
+      "id": "DIV002",
+      "titulo": "Priorização de dívidas",
+      "palavras_chave": [
+        "qual dívida pagar",
+        "priorizar",
+        "dívida cara"
+      ],
+      "conteudo": "Ao comparar dívidas, são relevantes o custo de cada dívida, o orçamento disponível, as consequências do atraso e a manutenção de recursos para despesas essenciais.",
+      "regra": "Apresentar critérios de comparação em vez de assumir uma única decisão correta."
+    },
+    {
+      "id": "DIV003",
+      "titulo": "Negociação",
+      "palavras_chave": [
+        "negociar",
+        "renegociar",
+        "acordo",
+        "parcelar dívida"
+      ],
+      "conteudo": "Em uma negociação, deve-se verificar valor total da proposta, quantidade e valor das parcelas, juros ou encargos e se o compromisso cabe no orçamento."
+    },
+    {
+      "id": "DIV004",
+      "titulo": "Cartão de crédito",
+      "palavras_chave": [
+        "cartão",
+        "fatura",
+        "rotativo",
+        "pagamento mínimo"
+      ],
+      "conteudo": "Quando a fatura não é paga integralmente, podem existir custos de financiamento. É importante conferir as condições e o custo total oferecido pela instituição."
+    }
+  ]
+}

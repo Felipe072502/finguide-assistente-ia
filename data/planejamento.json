@@ -1,0 +1,51 @@
+{
+  "tema": "Planejamento financeiro",
+  "fonte_referencia": "Banco Central do Brasil - Cidadania Financeira",
+  "itens": [
+    {
+      "id": "PLA001",
+      "titulo": "Objetivo financeiro",
+      "palavras_chave": [
+        "meta",
+        "objetivo",
+        "planejamento",
+        "comprar",
+        "viagem"
+      ],
+      "conteudo": "Um objetivo financeiro fica mais fácil de acompanhar quando possui valor estimado, prazo e uma quantia periódica destinada a ele."
+    },
+    {
+      "id": "PLA002",
+      "titulo": "Reserva para imprevistos",
+      "palavras_chave": [
+        "reserva",
+        "emergência",
+        "imprevisto",
+        "segurança"
+      ],
+      "conteudo": "Uma reserva financeira ajuda a lidar com despesas inesperadas e reduz a necessidade de recorrer imediatamente a crédito.",
+      "regra": "Não definir um valor universal de reserva sem conhecer a realidade do usuário."
+    },
+    {
+      "id": "PLA003",
+      "titulo": "Compra à vista ou parcelada",
+      "palavras_chave": [
+        "à vista",
+        "parcelado",
+        "parcelar",
+        "desconto"
+      ],
+      "conteudo": "Para comparar pagamento à vista e parcelado, observar desconto, juros, valor total pago, impacto no orçamento e efeito sobre a reserva."
+    },
+    {
+      "id": "PLA004",
+      "titulo": "Tomada de decisão",
+      "palavras_chave": [
+        "decisão",
+        "vale a pena",
+        "melhor opção"
+      ],
+      "conteudo": "Uma decisão financeira depende de objetivos, custos, riscos, prazo e situação financeira. O FinGuide deve organizar critérios e explicar cenários, não decidir pelo usuário."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "tema": "Crédito e juros",
+  "fonte_referencia": "Banco Central do Brasil",
+  "itens": [
+    {
+      "id": "CRE001",
+      "titulo": "Crédito",
+      "palavras_chave": [
+        "crédito",
+        "empréstimo",
+        "financiamento",
+        "parcelamento"
+      ],
+      "conteudo": "Crédito permite utilizar recursos agora com compromisso de pagamento futuro. Antes da contratação, devem ser avaliados custo, prazo, parcelas e impacto no orçamento."
+    },
+    {
+      "id": "CRE002",
+      "titulo": "Juros",
+      "palavras_chave": [
+        "juros",
+        "taxa",
+        "custo do crédito"
+      ],
+      "conteudo": "Juros representam o custo associado ao uso de dinheiro ao longo do tempo. Em operações de crédito, a taxa e o prazo influenciam o valor total pago.",
+      "regra": "O FinGuide não deve inventar ou assumir taxas de juros não informadas."
+    },
+    {
+      "id": "CRE003",
+      "titulo": "Juros simples",
+      "palavras_chave": [
+        "juros simples",
+        "cálculo",
+        "capital"
+      ],
+      "conteudo": "Nos juros simples, os juros de cada período são calculados sobre o valor inicial.",
+      "formula": "J = C × i × t"
+    },
+    {
+      "id": "CRE004",
+      "titulo": "Juros compostos",
+      "palavras_chave": [
+        "juros compostos",
+        "montante",
+        "juros sobre juros"
+      ],
+      "conteudo": "Nos juros compostos, os juros passam a integrar a base usada nos períodos seguintes.",
+      "formula": "M = C × (1 + i)^t"
+    },
+    {
+      "id": "CRE005",
+      "titulo": "Custo Efetivo Total - CET",
+      "palavras_chave": [
+        "CET",
+        "custo efetivo total",
+        "empréstimo",
+        "financiamento"
+      ],
+      "conteudo": "O CET representa o custo total de uma operação de crédito. Para comparar propostas, não basta observar apenas a taxa de juros; é necessário considerar os demais custos da operação."
+    },
+    {
+      "id": "CRE006",
+      "titulo": "Taxas de crédito variam",
+      "palavras_chave": [
+        "taxa atual",
+        "taxa banco",
+        "juros atuais"
+      ],
+      "conteudo": "As taxas de crédito podem variar entre instituições, modalidades e clientes.",
+      "regra": "Sem fonte atualizada ou taxa fornecida pelo usuário, o FinGuide deve dizer que não possui a taxa específica."
+    }
+  ]
+}

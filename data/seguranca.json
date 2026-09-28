@@ -1,0 +1,55 @@
+{
+  "tema": "Segurança financeira",
+  "fonte_referencia": "Banco Central do Brasil - Golpes e Segurança no Pix",
+  "itens": [
+    {
+      "id": "SEG001",
+      "titulo": "Pagamento antecipado para liberar empréstimo",
+      "palavras_chave": [
+        "empréstimo",
+        "pagamento antecipado",
+        "taxa antecipada",
+        "pix para liberar"
+      ],
+      "conteudo": "Pedido de pagamento antecipado para receber um empréstimo é um sinal de alerta. O Banco Central orienta a não realizar pagamento antecipado para receber empréstimos e a verificar a instituição por canais oficiais.",
+      "nivel_alerta": "alto"
+    },
+    {
+      "id": "SEG002",
+      "titulo": "Links e mensagens suspeitas",
+      "palavras_chave": [
+        "link",
+        "whatsapp",
+        "sms",
+        "phishing",
+        "mensagem",
+        "golpe"
+      ],
+      "conteudo": "Ofertas recebidas por links inesperados devem ser tratadas com cautela. A confirmação deve ser feita nos canais oficiais da instituição."
+    },
+    {
+      "id": "SEG003",
+      "titulo": "Golpe envolvendo Pix",
+      "palavras_chave": [
+        "pix",
+        "golpe",
+        "fraude",
+        "transferência"
+      ],
+      "conteudo": "Em caso de suspeita de fraude envolvendo Pix, é importante contatar a instituição financeira rapidamente e contestar a transação pelos canais adequados.",
+      "observacao": "O Mecanismo Especial de Devolução pode ser aplicável em determinados casos, mas não garante recuperação dos valores."
+    },
+    {
+      "id": "SEG004",
+      "titulo": "Dados pessoais e bancários",
+      "palavras_chave": [
+        "senha",
+        "dados bancários",
+        "token",
+        "código",
+        "cartão"
+      ],
+      "conteudo": "Senhas, códigos de autenticação e dados sensíveis devem ser protegidos. Solicitações inesperadas devem ser verificadas pelos canais oficiais."
+    }
+  ]
+}

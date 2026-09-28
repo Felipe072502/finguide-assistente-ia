@@ -1,0 +1,54 @@
+{
+  "tema": "Orçamento pessoal",
+  "fonte_referencia": "Banco Central do Brasil - Cidadania Financeira",
+  "itens": [
+    {
+      "id": "ORC001",
+      "titulo": "Orçamento pessoal",
+      "palavras_chave": [
+        "orçamento",
+        "renda",
+        "receita",
+        "despesas",
+        "gastos"
+      ],
+      "conteudo": "O orçamento pessoal organiza receitas e despesas para entender quanto dinheiro entra, quanto sai e qual é o saldo do período.",
+      "orientacoes": [
+        "Registrar as principais fontes de renda.",
+        "Separar despesas fixas e variáveis.",
+        "Diferenciar gastos essenciais de gastos adiáveis.",
+        "Comparar receitas e despesas.",
+        "Revisar o orçamento periodicamente."
+      ]
+    },
+    {
+      "id": "ORC002",
+      "titulo": "Receitas e despesas",
+      "palavras_chave": [
+        "receita",
+        "despesa",
+        "salário",
+        "gasto",
+        "conta"
+      ],
+      "conteudo": "Receitas são recursos recebidos. Despesas são valores gastos ou comprometidos. Conhecer ambos é necessário para avaliar a situação financeira.",
+      "orientacoes": [
+        "Não considerar limite de crédito como renda.",
+        "Incluir gastos pequenos e recorrentes no controle.",
+        "Observar despesas sazonais ou anuais."
+      ]
+    },
+    {
+      "id": "ORC003",
+      "titulo": "Saldo mensal",
+      "palavras_chave": [
+        "saldo",
+        "sobra",
+        "falta",
+        "orçamento negativo"
+      ],
+      "conteudo": "O saldo mensal pode ser entendido como receitas menos despesas.",
+      "formula": "saldo = receitas - despesas"
+    }
+  ]
+}
